@@ -1,0 +1,2 @@
+# Amo-Coin
+Amo coin
